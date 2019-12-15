@@ -1,0 +1,132 @@
+/* you got a friend in me  STYLE sheet  for bootstrapBNB prodject 
+
+Author: MIKE NORRITO 11/27/19;	*/
+
+body
+{
+	font-family: 'Courgette', cursive;
+}
+
+.nav li
+{
+	display: inline;
+
+}
+
+.nav a 
+{
+	font-family: 'Exo', sans-serif;
+	color: white;
+	font-size: 21px;
+	padding-right: 40px;
+	font-weight: bolder;
+	transition: color 1s;
+
+}
+
+.nav a:hover 
+{
+	text-decoration: none;
+	color: violet;
+}
+
+.nav 
+{
+	background-color: #3C618E;
+}
+
+.jumbotron 
+{
+	height: 720px;
+	background-image: url("Rust.jpg");
+	
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-size: contain;
+
+
+	
+}
+.jumbotron h1
+{
+	color: teal;
+	font-size: 56px;
+	margin-left: 176px;
+	
+}
+
+.jumbotron p
+{
+	margin-bottom: 35px;
+	margin-left: 105px;
+
+
+
+}
+
+.jumbotron a
+{
+	border-radius: 20px;
+	padding: 20px;
+	background-color: teal;
+	transition: color 3s;
+	text-decoration: none;
+	color: white;
+	margin-left: 235px;
+
+
+
+}
+.jumbotron a:hover
+{
+	color: black;
+}
+
+
+
+
+/*
+---------------------------------
+   Mobile Styles: 0px to 480px
+------------------------------------
+
+*/
+@media only screen and (max-width: 480px) 
+{
+
+}
+
+
+
+
+/*==========================================
+
+   Tablet Styles: 481px and greater
+=============================================
+*/
+
+@media only screen and (min-width: 481px)
+{
+
+}
+
+
+/*===============================================
+
+   Desktop styles : 769px and greater ;
+
+
+=================================================*/
+
+@media only screen and (min-width: 769px)
+{
+
+}
+
+
+
+
+
+
+
+
